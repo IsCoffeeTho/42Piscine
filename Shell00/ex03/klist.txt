@@ -1,0 +1,5 @@
+Credentials cache: API:E1F70448-B69B-4EBF-AA3D-380659AAEF28
+        Principal: amenadue@42ADEL.ORG.AU
+
+  Issued                Expires               Principal
+Jul 19 12:23:43 2021  Jul 19 22:23:39 2021  krbtgt/42ADEL.ORG.AU@42ADEL.ORG.AU
